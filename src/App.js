@@ -4,7 +4,7 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      <p>Test Git Flow</p>
+      <p>Test nouvelle branch</p>
     </div>
   );
 }
